@@ -1,2 +1,2 @@
 # nodeschool-workshopper-practice
-NodeSchoolのワークショッパーを実際にやって勉強するためのリポジトリ
+NodeSchoolのワークショッパーの問題を解くためのリポジトリ
