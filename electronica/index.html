@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>Hello Electron</title>
+</head>
+<script>
+  function done() {
+    const verify = require('electronica').verify;
+    verify();
+  }
+</script>
+<body>
+  <h1>Hello Electron!</h1>
+  node version <script>document.write(process.versions.node)</script><br>,
+  Chrome version <script>document.write(process.versions.chrome)</script><br>,
+  Electron version <script>document.write(process.versions.electron</script><br>.
+</body>
+</html>
